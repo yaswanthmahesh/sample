@@ -1,2 +1,3 @@
 This is a file to delete
 I will delete it
+I addeed third line too
