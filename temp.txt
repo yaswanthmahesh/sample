@@ -1,0 +1,2 @@
+Test Git temp file.new feature
+thjs is added
